@@ -18,7 +18,7 @@ The goal of this project is to demonstrate **data visualization, KPI analysis, a
 
 ## 🖥 Dashboard Preview
 
-![Honda Sales Dashboard](media/honda_sales_SS.png)
+![Honda Sales Dashboard](Media/honda_sales_SS.png)
 
 ---
 
